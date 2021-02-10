@@ -1,11 +1,15 @@
 ### Hi there 👋🏼
 
 My name is Sohaib and I am a Biomedical Scientist by profession but learning to code so that I can transition into the tech industry.
+
+
+- 🌱 I’m currently on a bootcamp with The Coders Guild, so I am enjoying my journey of learning coding.
+- More info coming soon....
+
 <!--
 **Sohaib-01/Sohaib-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🌱 I’m currently on a bootcamp with The Coders Guild, so I am enjoying my journey of learning coding.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
