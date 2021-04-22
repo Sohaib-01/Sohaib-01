@@ -3,7 +3,7 @@
 My name is Sohaib and I am a Biomedical Scientist by profession but learning to code so that I can transition into the tech industry.
 
 
-- 🌱 I’m currently on a bootcamp with The Coders Guild, so I am enjoying my journey of learning coding.
+- 🌱 I have recently just finished a JAM Stack bootcamp with The Coders Guild. So now I am enjoying my journey of learning and understanding coding in my own time.
 - More info coming soon....
 
 <!--
