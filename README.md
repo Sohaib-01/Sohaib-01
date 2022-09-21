@@ -1,10 +1,8 @@
 ### Hi there 👋🏼
 
-My name is Sohaib and I am a Biomedical Scientist by profession but learning to code so that I can transition into the tech industry.
+My name is Sohaib and I am a self taught Software Developer.
 
-
-- 🌱 I have recently just finished a JAM Stack bootcamp with The Coders Guild. So now I am enjoying my journey of learning and understanding coding in my own time.
-- More info coming soon....
+- 🌱 More info coming soon....
 
 <!--
 **Sohaib-01/Sohaib-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
